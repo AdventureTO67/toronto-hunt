@@ -1,2 +1,2 @@
-Place T001.png through T030.png in this folder.
+Place T000.png through T029.png in this folder.
 Keep filenames and capitalization exactly as shown.
